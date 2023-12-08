@@ -2,7 +2,6 @@
 Submission for Kaggle competition Hacking the Human Vasculature in 3D
 
 ## Required packages
-# Packages
  - Numpy
  - cv2
  - matplotlib
